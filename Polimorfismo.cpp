@@ -74,8 +74,8 @@ void Polimorfismo::reporteInventario(){
         }
     }
     //fuera del for desplegar los totales
-    cout << "Peliculas: " << contPeliculas << endl;
-    cout << "Series: " << contSeries << endl;
+    cout << "Peliculas = " << contPeliculas << endl;
+    cout << "Series = " << contSeries << endl;
 }
 
 void Polimorfismo::reporteCalificacion(double _calificacion){
